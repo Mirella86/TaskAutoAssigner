@@ -1,0 +1,6 @@
+C:\Users\mdascalu\Desktop\TaskAutoAssigner\TaskAutoAssigner\bin\Debug\TaskAutoAssigner.exe.config
+C:\Users\mdascalu\Desktop\TaskAutoAssigner\TaskAutoAssigner\bin\Debug\TaskAutoAssigner.exe
+C:\Users\mdascalu\Desktop\TaskAutoAssigner\TaskAutoAssigner\bin\Debug\TaskAutoAssigner.pdb
+C:\Users\mdascalu\Desktop\TaskAutoAssigner\TaskAutoAssigner\obj\Debug\TaskAutoAssigner.csprojResolveAssemblyReference.cache
+C:\Users\mdascalu\Desktop\TaskAutoAssigner\TaskAutoAssigner\obj\Debug\TaskAutoAssigner.exe
+C:\Users\mdascalu\Desktop\TaskAutoAssigner\TaskAutoAssigner\obj\Debug\TaskAutoAssigner.pdb
